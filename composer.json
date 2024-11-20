@@ -5,7 +5,7 @@
 	"homepage": "https://github.com/Senmurg/yii2-kcfinder",
 	"type": "yii2-extension",
 	"require": {
-		"Senmurg/kcfinder": "*",
+		"senmurg/kcfinder": "*",
 		"yiisoft/yii2-bootstrap": "*",
 		"yiisoft/yii2-jui": "*",
 		"iutbay/yii2-fontawesome" : "dev-master"
